@@ -1,4 +1,3 @@
-//Collaborator: Angelica Quintero
 
 export default class Game {
     constructor(size) {
